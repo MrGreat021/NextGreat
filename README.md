@@ -1,6 +1,6 @@
 # SpamCall
 UPDATE 16-January-2019
-<b><li>Spam Call Unlimited
+<b><li>Spam Call Unlimited</b>
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
 <li>$ pkg install git
