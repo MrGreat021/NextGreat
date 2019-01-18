@@ -1,6 +1,9 @@
 clear
-apt-get install git -y
-cd && rm -fr $HOME/SpamSms &&  git clone https://github.com/Aditya021/SpamSms && cd SpamCall
+apt-get install python
+cd && rm -fr $HOME/SpamCall &&  git clone https://github.com/Aditya021/SpamSms && cd SpamCall
 clear
-python $HOME/selesai.py
+cd
+cd SpamCall
+python $HOME/SpamCall/text.py
 echo && ls
+php SpamCall.php
